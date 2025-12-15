@@ -191,3 +191,38 @@ The simplified architecture allows for rapid scaling or wider release if needed.
 - Supports optional Hue and Sonos integration for enhanced SOS functionality
 
 > **EXODESÉUS Essential is the reliable, accessible, and modern foundation of the EXODESÉUS ecosystem.**
+
+---
+
+## App Preview (EXODESÉUS Essential)
+
+Below are images and GIFs showcasing the **current UI and user experience** of  
+**EXODESÉUS Essential**, the actively maintained and recommended version of the app.
+
+These visuals reflect:
+- The redesigned, modern layout
+- Consistent behavior across all platforms (Flutter)
+- The simplified News and SOS-focused experience
+- Improved clarity and emergency usability
+
+---
+
+### Screenshots
+
+<img src="https://github.com/TRSTN4/EXODESEUS-Essential/blob/main/images/layout.png?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS-Essential/blob/main/images/sos.png?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS-Essential/blob/main/images/system_logging.png?raw=true" width="200" height="auto"> 
+
+---
+
+### Animations / GIFs
+
+<img src="https://github.com/TRSTN4/EXODESEUS-Essential/blob/main/images/full_system_test.gif?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS-Essential/blob/main/images/red_alert.gif?raw=true" width="200" height="auto"> 
+
+---
+
+> ℹ️ **Note**  
+> EXODESÉUS Essential replaces the legacy Version 1 system.  
+> It offers a faster, more reliable architecture, a plug-and-play household model,
+> and a refined SOS system designed for everyday safety and emergency readiness.
+
+---
+
