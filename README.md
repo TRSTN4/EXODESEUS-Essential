@@ -220,7 +220,7 @@ These visuals reflect:
 ---
 
 > ℹ️ **Note**  
-> EXODESÉUS Essential replaces the legacy Version 1 system.  
+> EXODESÉUS Essential replaces the legacy [Version 1](https://github.com/TRSTN4/EXODESEUS) system.  
 > It offers a faster, more reliable architecture, a plug-and-play household model,
 > and a refined SOS system designed for everyday safety and emergency readiness.
 
