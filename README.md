@@ -4,7 +4,7 @@
 
 ## What is included?
 - What is EXODESÉUS Essential and how does it work?
-- Differences compared to EXODESÉUS Version 1 (see Version 1 documentation)
+- Differences compared to EXODESÉUS Version 1 (see [Version 1](https://github.com/TRSTN4/EXODESEUS) documentation)
 - App Preview
 
 ---
